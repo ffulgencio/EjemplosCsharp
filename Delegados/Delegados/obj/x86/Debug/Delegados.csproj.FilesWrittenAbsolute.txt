@@ -1,0 +1,5 @@
+/home/francis/Soluciones/Clases/Delegados/Delegados/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/francis/Soluciones/Clases/Delegados/Delegados/bin/Debug/Delegados.exe.mdb
+/home/francis/Soluciones/Clases/Delegados/Delegados/bin/Debug/Delegados.exe
+/home/francis/Soluciones/Clases/Delegados/Delegados/obj/x86/Debug/Delegados.exe
+/home/francis/Soluciones/Clases/Delegados/Delegados/obj/x86/Debug/Delegados.exe.mdb
